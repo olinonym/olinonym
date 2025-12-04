@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chitapann Chitthanawat
 
-🎓 2nd year Computer Engineering student  
-💡 Interested in: Data Engineer, Data Science, Data Analytics
+🎓 2nd year Computer Engineering student <br>
+💡 Interested in: Data Engineer, Data Science, Data Analytics <br>
 📚 Currently learning: Python, SQL, Power BI
 
 ---
