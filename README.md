@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Chitapann Chitthanawat
 
-<!--
-**olinonym/olinonym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd year Computer Engineering student  
+💡 Interested in: Data Engineer, Data Science, Data Analytics
+📚 Currently learning: Python, SQL, Power BI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Techniccal Skills
+**Programming:** Python, SQL <br>
+**Tools:** Power BI(Basic),  Git, VS Code, Excel(Basic) <br>
+**ML:** Pandas <br>
+**Language:** Thai, English
+
+---
+## 🧠 Soft Skills
+Cross Functional Communication <br>
+Analytical Thinking <br>
+Data Literacy <br>
+Team Collaboration <br>
+
+---
+
+## 📫 Contact
+**Email:** chitapann.7461@gmail.com
