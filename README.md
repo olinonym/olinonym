@@ -2,14 +2,13 @@
 
 🎓 2nd year Computer Engineering student <br>
 💡 Interested in: Data Engineer, Data Science, Data Analytics <br>
-📚 Currently learning: Python, SQL, Power BI
+📚 Currently learning: Python, SQL
 
 ---
 
-## 🔧 Techniccal Skills
+## 🔧 Technical Skills
 **Programming:** Python, SQL <br>
-**Tools:** Power BI(Basic),  Git, VS Code, Excel(Basic) <br>
-**ML:** Pandas <br>
+**Tools:** Git, VS Code<br>
 **Language:** Thai, English
 
 ---
