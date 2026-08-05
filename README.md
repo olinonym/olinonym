@@ -1,24 +1,17 @@
-# 👋 Hi, I'm Chitapann Chitthanawat
+<h1 align="center"> 👋 Hi, I'm Chitapann Chitthanawat </h1>
 
-🎓 3rd year Computer Engineering student <br>
-💡 Interested in: Data Engineer, Data Science, Data Analytics <br>
-📚 Currently learning: Python, SQL
+🎓 3rd-year Computer Engineering student at Naresuan University
 
----
+💻 Aspiring Data Engineer passionate about building ETL pipelines, data warehouses, and scalable data systems.
 
-## 🔧 Technical Skills
-**Programming:** Python, SQL <br>
-**Tools:** Git, VS Code<br>
-**Language:** Thai, English
+🚀 Currently building production-style Data Engineering projects using Python, SQL, PostgreSQL, Docker, and Apache Airflow. <br>
 
----
-## 🧠 Soft Skills
-Cross Functional Communication <br>
-Analytical Thinking <br>
-Data Literacy <br>
-Team Collaboration <br>
+📧 Email: chitapann.work@gmail.com <br>
 
----
+<br>
 
-## 📫 Contact
-**Email:** chitapann.work@gmail.com
+
+<p><strong>Programming : </strong>SQL, Python</p>
+<p><strong>Databases : </strong>PostgreSQL, BigQuery</p>
+<p><strong>Data Engineering : </strong>ETL, Apache Airflow, Data Modeling</p>
+<p><strong>Tools : </strong>Docker, Git, DBeaver, Looker Studio, VS Code</p>
