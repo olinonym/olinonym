@@ -17,6 +17,6 @@
 
 * **Cloud & Infrastructure:** Linux (CLI), Docker (Containerization), Cloud Concepts
 * **Data Engineering:** ETL Pipelines, Data Modeling, Apache Airflow
-* **Databases:** PostgreSQL, BigQuery, SQL
+* **Databases:** PostgreSQL, BigQuery
 * **Programming:** Python, SQL
 * **Tools & Workflow:** Git, DBeaver, VS Code, Linux Terminal
