@@ -2,8 +2,8 @@
 
 <p align="center">
   🎓 <b>3rd-year Computer Engineering Student</b> at Naresuan University <br>
-  💻 <b>Aspiring Cloud & Infrastructure Engineer | System Engineer | Data Engineer | System Analyst</b> <br>
-  🚀 Interested in Cloud Systems, Data Engineering, and System Analysis
+  💻 <b>Aspiring Cloud & Infrastructure Engineer | System Engineer | Data Engineer | System Analyst | Business Analyst</b> <br>
+  🚀 Interested in Cloud Systems, Data Engineering, System Analysis, Business Analyst
 </p>
 
 <p align="center">
