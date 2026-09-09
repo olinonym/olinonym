@@ -15,9 +15,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-* **System & Analysis:** Requirements Analysis, Use Case Modeling, System Flow, Database Design
-* **Cloud & Infrastructure:** Linux (CLI), Docker (Containerization), Cloud Concepts
-* **Data Engineering:** ETL Pipelines, Data Modeling, Apache Airflow
-* **Databases:** PostgreSQL, BigQuery
-* **Programming:** Python, SQL
-* **Tools & Workflow:** Git, DBeaver, VS Code, Linux Terminal
+* <b>Programming & Data:</b> SQL, Python, PostgreSQL, BigQuery
+* <b>System & Analysis:</b> Requirement Analysis, Process Analysis, Use Case Modeling, Database Design, System Flow
+* <b>Cloud:</b> Docker, Linux(CLI), Cloud Concepts (AWS/Azure/GCP), Apache Airflow
+* <b>Tool:</b> Git, Dbeaver, VS Code, Postman, Draw.io, Looker Studio
