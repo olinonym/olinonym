@@ -2,8 +2,7 @@
 
 <p align="center">
   🎓 <b>3rd-year Computer Engineering Student</b> at Naresuan University <br>
-  💻 <b>Aspiring Cloud & Infrastructure Engineer | System Engineer | Data Engineer | System Analyst | Business Analyst</b> <br>
-  🚀 Interested in Cloud Systems, Data Engineering, System Analysis, Business Analyst
+  🚀 Interested in Manual Testing & Automation Testing
 </p>
 
 <p align="center">
@@ -17,5 +16,4 @@
 
 * <b>Programming & Data:</b> SQL, Python, PostgreSQL, BigQuery
 * <b>System & Analysis:</b> Requirement Analysis, Process Analysis, Use Case Modeling, Database Design, System Flow
-* <b>Cloud:</b> Docker, Linux(CLI), Cloud Concepts (AWS/Azure/GCP), Apache Airflow
-* <b>Tool:</b> Git, Dbeaver, VS Code, Postman, Draw.io, Looker Studio
+* <b>Tool:</b> Git, Dbeaver, VS Code, Postman, Draw.io, Looker Studio, Docker
