@@ -2,7 +2,6 @@
 
 <p align="center">
   🎓 <b>3rd-year Computer Engineering Student</b> at Naresuan University <br>
-  🚀 Interested in Manual Testing & Automation Testing
 </p>
 
 <p align="center">
@@ -14,6 +13,5 @@
 
 ### 🛠️ Tech Stack & Skills
 
-* <b>Programming & Data:</b> SQL, Python, PostgreSQL, BigQuery
-* <b>System & Analysis:</b> Requirement Analysis, Process Analysis, Use Case Modeling, Database Design, System Flow
-* <b>Tool:</b> Git, Dbeaver, VS Code, Postman, Draw.io, Looker Studio, Docker
+* <b>Programming & Database:</b> SQL, Python, Fundamental Javascript, PostgreSQL, Google BigQuery
+* <b>Tools:</b> Git, Docker, DBeaver, VS Code, Looker Studio, Postman
