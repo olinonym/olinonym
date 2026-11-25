@@ -22,6 +22,10 @@
 
 ### 🚀 Featured Projects & Case Studies
 
+* **End-to-End E-Commerce Data Engineering Pipeline**
+  * Built an automated ETL pipeline in Python (`Pandas`) and Apache Airflow on Docker to ingest REST API data into a 3NF Star Schema on PostgreSQL (with cloud-ready BigQuery partitioned DDL), paired with analytical SQL Data Marts and a Power BI dashboard with Python Z-score anomaly detection.
+  * 🔗 [View Source Code (`ecommerce-data-pipeline`)](https://github.com/olinonym/ecommerce-data-pipeline)
+
 * **My88 Salon Management System (System Analysis & Database Design)**
   * Architected a web-based salon management system featuring end-to-end business logic (`Service BOM` chemical deduction, `Multi-Tier Commission Engine`, `Atomic Void Transaction`), DFD Level 0–1, and a 19-entity relational ER diagram.
   * 🔗 **[Read Full System Analysis Case Study (Notion)](https://app.notion.com/p/Salon-System-Analysis-41ea0993434580ecb310fcf53c98baae)**
